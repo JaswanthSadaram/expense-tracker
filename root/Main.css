@@ -1,0 +1,8 @@
+.deleteButton
+{
+    border: none;
+    background: red;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+} 
